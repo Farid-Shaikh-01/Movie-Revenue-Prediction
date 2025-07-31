@@ -93,4 +93,5 @@ Build a web app using Streamlit
 ✨ Author
 
 Farid Shaikh
+
 Passionate about real-world ML projects

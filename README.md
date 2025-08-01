@@ -95,4 +95,5 @@ Build a web app using Streamlit
 Farid Shaikh,
 
 #An Undergraduate Student
+
 #Passionate about real-world ML projects

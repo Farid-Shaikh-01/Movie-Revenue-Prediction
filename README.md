@@ -12,11 +12,8 @@ This project attempts to answer this using supervised machine learning technique
 💡 Project Highlights
 
 ✅ Used Random Forest Regressor for final model
-
 ✅ Tuned model using max_depth=10 for better performance
-
 ✅ Compared with Linear Regression for benchmarking
-
 ✅ Visualized actual vs predicted revenue
 
 
@@ -50,7 +47,6 @@ model.fit(X_train, y_train)
 📈 Evaluation Metrics:
 
 Mean Absolute Error (MAE): ₹40,102,608
-
 R² Score: 0.73
 
 
@@ -80,20 +76,9 @@ pip install -r requirements.txt
     └── tmdb_5000_credits.csv
 
 
-
-🚀 Future Improvements
-
-Add NLP analysis from movie overview or genres
-
-Include director or cast popularity
-
-Build a web app using Streamlit
-
-
 ✨ Author
 
 Farid Shaikh,
 
 #An Undergraduate Student
-
 #Passionate about real-world ML projects

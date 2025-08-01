@@ -46,6 +46,7 @@ print("Mean Absolute Error:", mean_absolute_error(y_test, y_pred))
 print("R² Score:", r2_score(y_test, y_pred))
 
 # Plot actual vs predicted revenue
+plt.figure(figsize=(8,6),dpi=300)
 plt.scatter(y_test, y_pred, alpha=0.5, color='purple')
 plt.xlabel("Actual Revenue")
 plt.ylabel("Predicted Revenue")

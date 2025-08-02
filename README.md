@@ -28,9 +28,8 @@ Using supervised ML techniques, this project provides a solid attempt to answer 
 📁 Dataset:
 
 tmdb_5000_movies.csv
-
 tmdb_5000_credits.csv
-📌 Source: (![Kaggle TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata))
+📌 Source: Kaggle TMDB 5000 Movie Dataset-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
 
